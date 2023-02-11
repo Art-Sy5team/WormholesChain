@@ -76,4 +76,20 @@ function get_peer_count() {
 }
 
 # Function to parse the JSON-RPC response to get the desired value
-function parse_json
+function parse_json(){
+      if [[ $# -gt 1 ]] && [[ $1 =~ $2 ]];then
+         echo "${1//\"/}"|sed "s/.*$2:\([^,}]*\).*/\1/"
+      else
+         echo "0x0"
+     fi
+}
+
+function main(){
+     if [[ $# -eq 0 ]];then
+             info 8545
+     else
+             info $1
+     fi
+}
+
+main "$@"
