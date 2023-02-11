@@ -2,7 +2,7 @@
 
 - [Website](https://www.wormholes.com/)
 - [Discord](https://discord.gg/KkM88sQXg6)
-- [Form Faucet](https://market-2.gitbook.io/validator-node-apply-wormholeschain/)
+- [Dashboard](https://www.wormholesscan.com/)
 - [Doc offcial](https://www.wormholes.com/docs/install/index.html)
 
 ## Spesifikasi Minimum
@@ -82,7 +82,7 @@ wget -O wormholes_install.sh https://docker.wormholes.com/wormholes_install.sh &
 wget https://raw.githubusercontent.com/Art-Sy5team/WormholesChain/main/monitor.sh
 ```
 
-- cek node status node
+- cek status node
 - ScreenShot Status node
 - simpan dan upload ke G.form untuk melanjutkan step Faucet & Stake
 
@@ -98,20 +98,23 @@ Jika semua step diatas selesai dan NODE block jalan, lanjut isi G.from untuk men
 
 ## Step Faucet
 
+[Twiter](https://twitter.com/WormholesChain) | [Discord](https://discord.gg/KkM88sQXg6) | [Teleram](https://t.me/wormholes_chain) | [all social media](https://linktr.ee/WormholesChain)
+
+- Follow dan Join social media WormholesChain
 - Buka [G.form](https://s.id/1z65Q)
 - masukan detail kalian
 
-Server configuration？| jawab sistem OS anda ex:`Ubuntu 22.04` atau yang lainya yg anda gunakan
+**Server configuration？**| jawab sistem OS anda ex: `Ubuntu 22.04` atau yang lainya yg anda gunakan
 
-Twitter URL？| Jawab `Link Twitter anda`
+**Twitter URL？**| Jawab `Link Twitter anda`
 
-Country and IP？| Jawab `Negara & IP VSP` yang digunakan run Wormholes
+**Country and IP？** | Jawab `Negara & IP VSP` yang digunakan run Wormholes
 
-Email address? Discord and Telegram? | Masukan `email` dan username `Discord & Telegram`
+**Email address?** Discord and Telegram? | Masukan `email` dan username `Discord & Telegram`
 
-Screenshot of running node？(Display node height）| `Upload ScreenShoot` Status NODE
+**Screenshot of running node？**| (Display node height）| `Upload ScreenShoot` Status NODE
 
-Limino Wallet address? | Jawab `Address wallet Limino`
+**Limino Wallet address?** | Jawab `Address wallet Limino`
 
 - Kirim G.Form dan biarkan node berjalan
 - team Wormholes akan review node dan jika lolos address yang masukan di form akan menerima 70.000 aset ERB.
@@ -130,6 +133,10 @@ step ini jika anda sudah menerima ERB di wallet dan dapat konfirmasi email bahwa
 - Delegate Stake token anda 70.000 ERB
 - Konfirmasi wallet and `done`
 - untuk melihat detail statu validator NODE buka [dashboard](https://www.wormholesscan.com/) paste address
+
+<h1 align="center"><strong>Perintah-perintah Berguna<strong></h1>
+
+`update-soon`
 
 ### Art-Team INFO
 
